@@ -30,10 +30,21 @@ Esta es una muestra del avance del proyecto, como se puede ver en la siguiente i
 >[!NOTE]
 >Este no es el diseño final del menu
 
+## Juego
+
+Una previsualizacion de como se ven los juegos
+
+
+- Ping Pong
+
+[![Ping-pong-1.jpg](https://i.postimg.cc/GhR9PyTr/Ping-pong-1.jpg)](https://postimg.cc/G9Mcd9jS)
+
 
 ### Pre-requisitos 📋
 
-Para la realización de este proyecto vamos a necesitar instalar e importar algunas librerias, las cuales serian pygame y tkinter.
+Para la realización de este proyecto es importante instalar las siguientes librerias, las cuales serian Pygame, Tkinter, Math, sys y Time.
+Las libreria como Pygame y Tkinnter se obtienen instalandolas desde la terminal.
+
 
 > [!NOTE]
 > Si aun no tienes instalado pygame o tkinter ejecutando el siguiente comando en tu CMD podras instalarlo. 
